@@ -51,9 +51,10 @@ https://github.com/Team-20-MagicPi/Schematic-View
 
 This is our finished product(prototype):
 
-![e27278ed54091cdcc9480c2fa1f231f](C:\Users\安玉\AppData\Local\Temp\WeChat Files\e27278ed54091cdcc9480c2fa1f231f.jpg)
+![e27278ed54091cdcc9480c2fa1f231f](https://user-images.githubusercontent.com/49462534/115292403-d1d6c880-a14d-11eb-9b7b-6365bad84a63.jpg)
+![26a9eae0384ef3f3e8f50f4ba700fd0](https://user-images.githubusercontent.com/49462534/115292413-d4392280-a14d-11eb-9961-4ff49e073f49.jpg)
 
-![26a9eae0384ef3f3e8f50f4ba700fd0](C:\Users\安玉\AppData\Local\Temp\WeChat Files\26a9eae0384ef3f3e8f50f4ba700fd0.jpg)
+
 
 
 
