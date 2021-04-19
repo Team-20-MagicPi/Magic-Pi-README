@@ -68,6 +68,8 @@ This is our finished product(prototype):
  
 
 ### Body detection
+ we use a infrared sensor to detect the body of the user standing in front of the magic mirror. And using it to control the screen on and off.
+ More details: https://github.com/Team-20-MagicPi/body_detection
 
 ### Voice detection
 
