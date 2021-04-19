@@ -6,6 +6,7 @@ It is an unusual mirror which can help you enjoy your life.
 
 * [Background](#Background)
 * [Introduction](#Introduction)
+*  [Hardware and software](##Hardware and software)
 * [Contributing](#Contributing)
 
 ## Background
