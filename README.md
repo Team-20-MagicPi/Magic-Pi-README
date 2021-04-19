@@ -6,7 +6,6 @@ It is an unusual mirror which can help you enjoy your life.
 
 * [Background](#Background)
 * [Introduction](#Introduction)
-*  [Hardware and software](##Hardware and software)
 * [Contributing](#Contributing)
 
 ## Background
@@ -91,6 +90,21 @@ The digital signal is easily read with any microcontroller.
 More details: https://github.com/Team-20-MagicPi/temperature-and-humidity-detection
 
 ### Gesture sensor
+### Project cost
+
+| name                                   | number                     | price(￥)         |
+| -------------------------------------- | -------------------------- | ----------------- |
+| Raspberry  Pi 4B                       | 1                          | 465               |
+| sound transducer                       | 1                          | 5.8               |
+| Gesture Recognition Module             | 1                          | 49                |
+| Infrared sensor module                 | 1                          | 16.9              |
+| Temperature and humidity sensor module | 1                          | 18.9              |
+| breadboard                             | 1                          | 7.8               |
+| Dupont  Line                           |                            | 11                |
+| LCD(Liquid Crystal Display)            | 1                          | 110               |
+| mirror  glass                          | 1                          | 180               |
+|                                        | total                      | 864.4 (￡95.7755) |
+|                                        | total(except raspberry pi) | 399.4 (￡44.2535) |
 
 ## Contributing
 
