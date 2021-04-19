@@ -100,3 +100,5 @@ More details: https://github.com/Team-20-MagicPi/temperature-and-humidity-detect
 @[Zhou Shuaii](https://github.com/ZhouShuaii)
 
 @[JiajianYou](https://github.com/JiajianYou)
+
+Don't forget to follow our ins: https://www.instagram.com/magicm1rrorpi/
