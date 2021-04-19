@@ -4,9 +4,9 @@ It is an unusual mirror which can help you enjoy your life.
 
 ## Table of Contents
 
-* [Background](## Background)
-* [Introduction](## Introduction)
-* [Contributing](## Contributing)
+* [Background](#Background)
+* [Introduction](#Introduction)
+* [Contributing](#Contributing)
 
 ## Background
 
