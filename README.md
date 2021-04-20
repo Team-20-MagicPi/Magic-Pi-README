@@ -92,6 +92,7 @@ The digital signal is easily read with any microcontroller.
 More details: https://github.com/Team-20-MagicPi/temperature-and-humidity-detection
 
 ### Gesture sensor
+It detects 3D gesture with Gesture Sensor(PAJ7620u2)，and controls a music player.
 More details: https://github.com/Team-20-MagicPi/Gesture-Detection
 ### Project cost
 
