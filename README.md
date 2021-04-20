@@ -92,6 +92,7 @@ The digital signal is easily read with any microcontroller.
 More details: https://github.com/Team-20-MagicPi/temperature-and-humidity-detection
 
 ### Gesture sensor
+More details: https://github.com/Team-20-MagicPi/Gesture-Detection
 ### Project cost
 
 | name                                   | number                     | price(￥)         |
