@@ -20,6 +20,20 @@ When combining the magic mirror in the science fiction film with the real-life m
 
 ### Hardware and software
 
+**Display Frame**
+* The display frame is from MagicMirror official website https://github.com/MichMich/MagicMirror
+ 
+ just some simple code help you get the project
+ 
+*  sudo apt-get update
+*  sudo apt-get upgrade
+*  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - 
+*  sudo apt install -y nodejs
+*  git clone https://github.com/MichMich/MagicMirror
+*  cd MagicMirror/
+*  npm install
+*  npm start
+
 **Hardware**
 
 * [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
