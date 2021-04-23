@@ -107,7 +107,7 @@ More details: https://github.com/Team-20-MagicPi/temperature-and-humidity-detect
 
 ### Gesture sensor
 It detects 3D gesture with Gesture Sensor(PAJ7620u2)，and controls a music player.
-More details: https://github.com/Team-20-MagicPi/Gesture-Detection
+More details: https://github.com/Team-20-MagicPi/Gesture-regnition
 ### Project cost
 
 | name                                   | number                     | price(￥)         |
